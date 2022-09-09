@@ -25,3 +25,8 @@
 
 ### Security:
 - https://www.youtube.com/watch?v=UfeZ-bPFs10 - just general security
+
+## Books 
+
+- https://t.me/arch_prog/444 - The Go Programming Language [RU]
+- https://t.me/arch_prog/1612 - Designing Data-Intensive Applications [RU]
