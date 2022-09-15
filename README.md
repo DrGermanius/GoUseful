@@ -27,6 +27,11 @@
 ### Security:
 - https://www.youtube.com/watch?v=UfeZ-bPFs10 - just general security
 
+## Docker
+
+### Networks:
+- https://youtu.be/bKFMS5C4CG0 - docker networking
+
 ## Books 
 
 - https://t.me/arch_prog/444 - The Go Programming Language [RU]
