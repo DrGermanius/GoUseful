@@ -2,6 +2,12 @@
 
 ## Go
 
+### Map:
+- https://youtu.be/P_SXTUiA-9Y - map internals
+
+### Slice: 
+- https://youtu.be/10LW7NROfOQ - slice internals
+
 ### Scheduler:
 - https://habr.com/ru/post/502506/ - preemptive scheduler 
 - https://youtu.be/-K11rY57K7k - Go scheduler: Implementing language with lightweight concurrency
@@ -9,6 +15,7 @@
 - https://habr.com/ru/post/489862/ - Scheduling In Go: Part II — OS Scheduler [RU]
 
 ### Channels: 
+- https://youtu.be/ZTJcaP4G4JM - channel internals
 - http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html - interesting ways of using channels
 
 ### Concurrency programming:
