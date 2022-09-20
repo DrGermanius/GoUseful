@@ -1,4 +1,4 @@
-# GoUseful
+# Useful
 
 ## Go
 
