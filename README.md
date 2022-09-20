@@ -39,7 +39,7 @@
 ### Networks:
 - https://youtu.be/bKFMS5C4CG0 - docker networking
 
-## Cassandra:
+## Cassandra
 - https://www.youtube.com/watch?v=Ae4GABykRoM - workshop part I. Cassandra fundementals 
 - https://www.youtube.com/watch?v=5U_mbXq61rk - workshop part II. Data modeling
 - https://www.youtube.com/watch?v=8cpcA1q8Fs8 - workshop part III
