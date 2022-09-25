@@ -10,9 +10,9 @@
 
 ### Scheduler:
 - https://habr.com/ru/post/502506/ - preemptive scheduler 
-- https://youtu.be/-K11rY57K7k - Go scheduler: Implementing language with lightweight concurrency
-- https://habr.com/ru/post/478168/ - Scheduling In Go: Part I — OS Scheduler [RU]
-- https://habr.com/ru/post/489862/ - Scheduling In Go: Part II — OS Scheduler [RU]
+- https://youtu.be/-K11rY57K7k - go scheduler: Implementing language with lightweight concurrency
+- https://habr.com/ru/post/478168/ - scheduling In Go: Part I — OS Scheduler [RU]
+- https://habr.com/ru/post/489862/ - scheduling In Go: Part II — OS Scheduler [RU]
 
 ### Channels: 
 - https://youtu.be/ZTJcaP4G4JM - channel internals
@@ -27,6 +27,10 @@
 - https://habr.com/ru/company/vk/blog/686758/ - inlining
 - https://habr.com/ru/company/oleg-bunin/blog/676332/ - memory
 - https://habr.com/ru/post/571420/ - register-based calling convention
+- https://github.com/teh-cmc/go-internals - go internals (ASM + Interfaces)
+
+### Interfaces:
+- https://research.swtch.com/interfaces - go Data Structures: Interfaces
 
 ### Patterns:
 - https://habr.com/ru/post/682618/ - highload patterns Part I
