@@ -26,6 +26,7 @@
 ### Internals:
 - https://habr.com/ru/company/vk/blog/686758/ - inlining
 - https://habr.com/ru/company/oleg-bunin/blog/676332/ - memory
+- https://habr.com/ru/post/571420/ - register-based calling convention
 
 ### Patterns:
 - https://habr.com/ru/post/682618/ - highload patterns Part I
