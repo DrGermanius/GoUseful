@@ -11,8 +11,8 @@
 ### Scheduler:
 - https://habr.com/ru/post/502506/ - preemptive scheduler 
 - https://youtu.be/-K11rY57K7k - go scheduler: Implementing language with lightweight concurrency
-- https://habr.com/ru/post/478168/ - scheduling In Go: Part I — OS Scheduler [RU]
-- https://habr.com/ru/post/489862/ - scheduling In Go: Part II — OS Scheduler [RU]
+- https://habr.com/ru/post/478168/ - scheduling In Go: Part I — OS Scheduler
+- https://habr.com/ru/post/489862/ - scheduling In Go: Part II — OS Scheduler
 
 ### Channels: 
 - https://youtu.be/ZTJcaP4G4JM - channel internals
@@ -52,5 +52,5 @@
 
 ## Books 
 
-- https://t.me/arch_prog/444 - The Go Programming Language [RU]
-- https://t.me/arch_prog/1612 - Designing Data-Intensive Applications [RU]
+- https://t.me/arch_prog/444 - The Go Programming Language
+- https://t.me/arch_prog/1612 - Designing Data-Intensive Applications
