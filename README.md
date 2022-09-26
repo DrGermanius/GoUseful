@@ -22,6 +22,7 @@
 - https://www.youtube.com/watch?v=4U3EaVufuW4 - video from avito
 - https://habr.com/ru/company/ru_mts/blog/680324/ - concurrency examples
 - https://youtu.be/9CFbBoMvl48 - package sync and alternative data structures
+- https://github.com/golang-basics/concurrency - concurrency examples
 
 ### Internals:
 - https://habr.com/ru/company/vk/blog/686758/ - inlining
