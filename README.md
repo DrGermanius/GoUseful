@@ -29,6 +29,7 @@
 - https://habr.com/ru/company/oleg-bunin/blog/676332/ - memory
 - https://habr.com/ru/post/571420/ - register-based calling convention
 - https://github.com/teh-cmc/go-internals - go internals (ASM + Interfaces)
+- https://habr.com/ru/company/vk/blog/358088/ - go assembly guide 
 
 ### Interfaces:
 - https://research.swtch.com/interfaces - go Data Structures: Interfaces
