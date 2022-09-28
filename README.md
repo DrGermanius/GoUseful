@@ -51,6 +51,11 @@
 - https://www.youtube.com/watch?v=5U_mbXq61rk - workshop part II. Data modeling
 - https://www.youtube.com/watch?v=8cpcA1q8Fs8 - workshop part III
 
+## Architecture
+
+### Clean Architecture:
+- https://habr.com/ru/company/mobileup/blog/335382/ - understanding clean arch  
+
 ## Books 
 
 - https://t.me/arch_prog/444 - The Go Programming Language
