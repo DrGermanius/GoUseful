@@ -34,6 +34,7 @@
 
 ### Interfaces:
 - https://research.swtch.com/interfaces - go Data Structures: Interfaces
+- https://gronskiy.com/posts/2020-04-golang-pointer-vs-value-methods/ - methods sets and interfaces 
 
 ### Patterns:
 - https://habr.com/ru/post/682618/ - highload patterns Part I
